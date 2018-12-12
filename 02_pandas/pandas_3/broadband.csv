@@ -1,0 +1,75 @@
+country,series,value
+Switzerland,broadband,46.77
+Switzerland,gdppc,64834.80053
+Denmark,broadband,42.923
+Denmark,gdppc,51495.56007
+France,broadband,42.843
+France,gdppc,42858.45494
+Netherlands,broadband,42.126
+Netherlands,gdppc,52799.14951
+Korea,broadband,41.2
+Korea,gdppc,38350.32339
+Norway,broadband,40.863
+Norway,gdppc,61576.32491
+Germany,broadband,40.194
+Germany,gdppc,50878.15237
+United Kingdom,broadband,39.383
+United Kingdom,gdppc,43321.16019
+Iceland,broadband,39.357
+Iceland,gdppc,52825.17658
+Belgium,broadband,38.588
+Belgium,gdppc,47941.66117
+Sweden,broadband,38.381
+Sweden,gdppc,50178.97603
+Canada,broadband,37.847
+Canada,gdppc,46704.89203
+Luxembourg,broadband,35.897
+Luxembourg,gdppc,104174.8913
+Greece,broadband,35.397
+Greece,gdppc,27699.52873
+Portugal,broadband,34.688
+Portugal,gdppc,31652.48431
+United States,broadband,33.723
+United States,gdppc,59534.61896
+New Zealand,broadband,33.672
+New Zealand,gdppc,40886.41537
+Australia,broadband,31.796
+Australia,gdppc,50588.14949
+Spain ,broadband,31.094
+Spain ,gdppc,38016.58624
+Finland,broadband,31.036
+Finland,gdppc,44955.58312
+Japan,broadband,30.959
+Japan,gdppc,43298.72775
+Hungary,broadband,30.218
+Hungary,gdppc,28099.30795
+Estonia,broadband,29.824
+Estonia,gdppc,31739.11999
+Czech Republic,broadband,29.636
+Czech Republic,gdppc,36350.10463
+Ireland,broadband,29.181
+Ireland,gdppc,75304.04928
+Slovenia,broadband,28.918
+Slovenia,gdppc,34886.0808
+Austria,broadband,28.543
+Austria,gdppc,52467.527
+Lithuania,broadband,28.302
+Lithuania,gdppc,32154.46996
+Israel,broadband,27.558
+Israel,gdppc,38276.61545
+Italy,broadband,27.414
+Italy,gdppc,39433.01683
+Latvia,broadband,27.142
+Latvia,gdppc,27631.75515
+Slovak Republic,broadband,25.83
+Slovak Republic,gdppc,31625.20667
+Poland,broadband,18.363
+Poland,gdppc,28686.23542
+Chile,broadband,16.515
+Chile,gdppc,24012.91487
+Turkey,broadband,15.088
+Turkey,gdppc,27077.71919
+Mexico ,broadband,13.87
+Mexico ,gdppc,19092.56517
+Colombia,broadband,12.821
+Colombia,gdppc,14485.30586
