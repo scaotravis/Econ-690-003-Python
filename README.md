@@ -1,4 +1,4 @@
-# Econ 690-003: Data Analysis for Economist
+# Econ 690-003: Data Analysis for Economists
 
 This course is taught by Professor Kim Ruhl (UW-Madison, Dept of Economics) in Fall 2018. 
 
